@@ -1,1 +1,2 @@
-Start from 8th May 2017
+Start from 8th May 2017.
+These are tags for learning React.
